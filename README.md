@@ -12,4 +12,4 @@ PYpdf-merger is a Python script that allows you to merge multiple PDF files into
 ## Usage
 
 1. Make sure you have Python 3.11 installed on your system.
-2. Install the PyPDF2 library by running `pip install PyPDF2`
+2. Install the PyPDF2 library by running `pip install PyPDF2`.
